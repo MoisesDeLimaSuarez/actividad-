@@ -15,8 +15,11 @@ const App = () => {
 		},
 		{
 			id: 3,
-			texto:
-				'Inteligencia militar son dos términos absolutamente contradictorios',
+			texto: 'Inteligencia militar son dos términos absolutamente contradictorios',
+		},
+		{
+			id: 4,
+			texto: 'este es el comentario agregado por mi '
 		},
 	];
 	return (
